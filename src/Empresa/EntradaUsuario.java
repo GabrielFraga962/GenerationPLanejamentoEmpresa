@@ -1,4 +1,4 @@
-package Empresa;
+package empresa;
 
 import java.util.Scanner;
 
