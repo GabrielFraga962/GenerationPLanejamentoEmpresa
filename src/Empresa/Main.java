@@ -1,4 +1,4 @@
-package Empresa;
+package empresa;
 
 import java.util.InputMismatchException;
 
@@ -49,8 +49,9 @@ public class Main {
 				emp.run();
 				break;
 			}
-			case 0:{
-				System.out.println("problemas de escopo");
+			case 2:{
+				Anexo2Industria emp = new Anexo2Industria();
+				emp.run();
 				break;
 			}
 			default:
